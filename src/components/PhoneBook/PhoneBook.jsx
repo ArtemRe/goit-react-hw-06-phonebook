@@ -1,5 +1,3 @@
-import { nanoid } from 'nanoid';
-import { useEffect, useState  } from 'react';
 import FormAddContacts from './ContactForm/ContactForm';
 import PhoneBookList from './ContactList/ContactList';
 import Filter from './Filter/Filter';
